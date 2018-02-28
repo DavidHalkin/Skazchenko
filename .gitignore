@@ -3,7 +3,7 @@ node_modules/
 
 /.idea
 *.psd
-*.map
+
 .tmp
 
 bower_components/
